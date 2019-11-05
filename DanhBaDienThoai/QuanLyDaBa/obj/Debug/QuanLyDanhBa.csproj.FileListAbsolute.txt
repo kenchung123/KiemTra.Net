@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\TenLienLac.txt
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\Nhom.txt
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe.config
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.pdb
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.add.resources
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.AddTenLienLac.resources
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.ftmQuanLyDaBa.resources
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.exe
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.pdb
+C:\Users\Admin\Downloads\QuanLyDaBa\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDanhBa.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyDaBa\DanhBaDienThoai\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe.config
+C:\Users\Admin\Downloads\QuanLyDaBa\DanhBaDienThoai\QuanLyDaBa\obj\Debug\QuanLyDaBa.exe
+C:\Users\Admin\Downloads\QuanLyDaBa\DanhBaDienThoai\QuanLyDaBa\obj\Debug\QuanLyDaBa.pdb
